@@ -1,14 +1,12 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-#first-border{
-    border-left: 3px solid;
-    border-image: linear-gradient(salmon, tomato);
-    border-image-slice: 1; 
-    padding-left: 2%;
-    border-radius: 15%;
-    
-    
+
+     /*<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<welcome section-1>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+
+
+.welcome-padding{
+    margin-top: 100px;  
 }
 
 .flexibility{
@@ -20,16 +18,9 @@ body{
     padding-left: 5%;
 }
 .half-width-1 img{
-    width:50%;
+    width: 70%;
+    margin-top: 75px;
 }
-.half-width-2{
-    width: 50%;
-}
-.half-width-2 img{
-    width: 50%;
-    padding-left: 10%;
-}
-
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(salmon, tomato);
@@ -45,6 +36,20 @@ h1{
     margin: 0;
 
 }
+
+
+/*<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Diffrnet-language-section-2>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+
+
+
+.half-width-2{
+    width: 50%;
+}
+.half-width-2 img{
+    width: 50%;
+    padding-left: 10%;
+}
+
 .align{
     text-align: center;
     padding-bottom: 50px;
@@ -53,7 +58,7 @@ h1{
     color: orange;
 }
 
-.Mission-item-1{
+.c-item-1{
 
     width: 70%;
     margin-left: 5%;
@@ -61,27 +66,23 @@ h1{
     padding: 30px;
     background-color: rgba(97, 46, 46, 0.2);
     border-radius: 10px;
-  
-  
 }
-.Mission-item-1 img{
+.c-item-1 img{
     width: 150px;
 }
 
-.Mission-item-2{
+.java-item-2{
 
     width: 70%;
 
     padding: 30px;
     background-color: rgba(92, 154, 158, 0.2);
-    border-radius: 10px;
-  
-  
+    border-radius: 10px; 
 }
-.Mission-item-2 img{
-    width: 150px;
+.java-item-2 img{
+    width: 90px;
 }
-.Mission-item-3{
+.python-item-3{
 
     width: 70%;
     margin-left: 5%;
@@ -92,26 +93,53 @@ h1{
   
   
 }
-.Mission-item-3 img{
-    width: 150px;
+.python-item-3 img{
+    width: 400px;
 }
 .position-image{
     position: center;
     width: 2%;
 
 }
+
+/*<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< section-3>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+
+.section-3-half-width{
+
+    width: 50%;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 10%;
+    padding-right: 5%;
+}
+
+.section-3-1-half-width img{
+    width: 60%;
+    margin-left: 30%;
+    
+
+}
+
+/*<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< about-me-section-5>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+
+
+#top-margin{
+    margin-top: 10%;
+}
+/*<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< about-me-section-5>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 .Mission-item-4{
 
     position: center;
     width: 40%;
+    margin-top: 5%;
     margin-left: 30%;
     margin-right: 5%;
     padding: 2%;
     background-color: rgba(97, 46, 46, 0.2);
-    border-radius: 10px;
-  
-  
+    border-radius: 10px; 
 }
+
+
 .half-width-3{
     width: 50%;
     padding-left: 30%;
@@ -120,6 +148,8 @@ h1{
     width: 100%;
     position: center;
 }
+
+/*<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< footer-section-6>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 .last{
     background: black;
 }
