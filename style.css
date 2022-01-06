@@ -12,14 +12,17 @@ body{
 .flexibility{
     display: flex;
     margin-bottom: 150px;
+    
 }
 .half-width-1{
     width: 50%;
     padding-left: 5%;
+    padding-right: 5%;
 }
 .half-width-1 img{
-    width: 70%;
+    width: 100%;
     margin-top: 75px;
+    
 }
 .link-button{
     text-decoration: none;
@@ -94,7 +97,7 @@ h1{
   
 }
 .python-item-3 img{
-    width: 400px;
+    width: 150px;
 }
 .position-image{
     position: center;
@@ -120,13 +123,16 @@ h1{
 
 }
 
-/*<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< about-me-section-5>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+/*<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< about-me-section-4>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 
 
 #top-margin{
-    margin-top: 10%;
+    margin-top: 20%;
 }
+
 /*<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< about-me-section-5>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+
+
 .Mission-item-4{
 
     position: center;
@@ -138,7 +144,6 @@ h1{
     background-color: rgba(97, 46, 46, 0.2);
     border-radius: 10px; 
 }
-
 
 .half-width-3{
     width: 50%;
