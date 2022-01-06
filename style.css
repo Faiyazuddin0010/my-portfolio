@@ -128,8 +128,21 @@ h1{
 
 }
 
-/*<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< about-me-section-4>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+#top-margin-2{
+    margin-top: 3%;
+}
 
+/*<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< about-me-section-4>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+.half-width-4{
+    width: 70%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.half-width-4 img{
+    width: 20px;
+    margin-top: 75px;
+    
+}
 
 #top-margin{
     margin-top: 20%;
@@ -137,9 +150,7 @@ h1{
 
 /*<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< about-me-section-5>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 
-#top-margin-2{
-    margin-top: 3%;
-}
+
 
 
 .Mission-item-4{
